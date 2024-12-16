@@ -9,6 +9,7 @@ public class AddCalculator {
 
         result = add(a, b);
 
+        System.out.println("Sum: "+ result);
 
     }
 
